@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'RemoPlusPro';
+    src: url('https://raw.githubusercontent.com/sadavath/eatbanzatest/blob/master/RemoPlusPro-Bold.otf') format('opentype'),
+         url('https://raw.githubusercontent.com/eatbanzatest/blob/master/RemoPlusPro-Normal%20(1).otf') format('opentype');
+    font-weight: 100;
+    font-style: normal;
+} 
